@@ -1,5 +1,5 @@
-# Data_Analyst_portfolio
-A practice portfolio repository dealing with the Ken Jee video on youtube. First step to designing data science/ data analyst portfolio.
+# Kairav_Data_Analyst_portfolio
+Portfolio belongs to Kairav Thakkar demonstrating the recent projects in the field of data science and data analysis.
 # [Project 1: Streaming_Service_Comparison_and_Analysis](https://github.com/parzivalkairav/streaming-service-analysis) 
 * Created a project comparing the best streaming services out there.
 * Violin Chart to measure the content ratings and the response from the massed for the streaming platform
