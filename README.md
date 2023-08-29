@@ -1,4 +1,4 @@
-# example_portfolio
+# Data_Analyst_portfolio
 A practice portfolio repository dealing with the Ken Jee video on youtube. First step to designing data science/ data analyst portfolio.
 # [Project 1: Streaming_Service_Comparison_and_Analysis](https://github.com/parzivalkairav/streaming-service-analysis) 
 * Created a project comparing the best streaming services out there.
