@@ -14,7 +14,7 @@ Portfolio belongs to Kairav Thakkar demonstrating the recent projects in the fie
 
 ![necessary image derived from the analysis]()
 
-# [Project 2: Growth of countries Analysis]([https://colab.research.google.com/drive/15ldWN4bBySpwhgqx8pj-G4rkaJZMQU6-](https://colab.research.google.com/drive/1lW4bAPA5Ow7E4hsL7up3ByAWDPyKHxq3?usp=sharing)) 
+# [Project 2: Growth of countries Analysis](https://colab.research.google.com/drive/1lW4bAPA5Ow7E4hsL7up3ByAWDPyKHxq3?usp=sharing)
 * Created a project comparing the GDP and the GDP per capital of various countries
 * Governing factors with respect to the growth of countries are accounted for the overall picture.
 * Analysing the countries with per capita GDP to give a broader outlook at global scale.
@@ -24,7 +24,7 @@ Portfolio belongs to Kairav Thakkar demonstrating the recent projects in the fie
 
 *Dataset can be found here: https://www.kaggle.com/datasets/fernandol/countries-of-the-world
 
-# [Project 3: Google Play Store Review Analysis]([https://colab.research.google.com/drive/15ldWN4bBySpwhgqx8pj-G4rkaJZMQU6-](https://colab.research.google.com/drive/15ldWN4bBySpwhgqx8pj-G4rkaJZMQU6-?usp=sharing))
+# [Project 3: Google Play Store Review Analysis](https://colab.research.google.com/drive/15ldWN4bBySpwhgqx8pj-G4rkaJZMQU6-?usp=sharing)
 * Created a project comparing the best streaming services out there.
 * Violin Chart to measure the content ratings and the response from the massed for the streaming platform
 * Analysing the Imdb and Rotten Tomatoes ratings to find the better streaming platform.
