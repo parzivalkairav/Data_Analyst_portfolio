@@ -1,7 +1,6 @@
-# Kairav_Data_Analyst_portfolio
 Portfolio belongs to Kairav Thakkar demonstrating the recent projects accomplished in the field of data science and data analysis.
 
-# [Project 1: Streaming_Service_Comparison_and_Analysis](https://colab.research.google.com/drive/1G9vIDd--ozCaRNCOADCh-_e594ZUCAHS?usp=sharing) 
+# [Project 1: OTT Comparison_and_Analysis](https://colab.research.google.com/drive/1G9vIDd--ozCaRNCOADCh-_e594ZUCAHS?usp=sharing) 
 * Created a project comparing the best streaming services out there.
 * Violin Chart to measure the content ratings and the response from the massed for the streaming platform
 * Analysing the Imdb and Rotten Tomatoes ratings to find the better streaming platform.
