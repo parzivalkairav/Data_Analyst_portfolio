@@ -22,7 +22,7 @@ Portfolio belongs to Kairav Thakkar demonstrating the recent projects accomplish
 
 *Dataset can be found here: [Kaggle: Countries and their GDP](https://www.kaggle.com/datasets/fernandol/countries-of-the-world)
 
-![necessary image derived from the analysis]()
+![necessary image derived from the analysis](https://github.com/parzivalkairav/Data_Analyst_portfolio/blob/main/images/gdp_analysis/heatmap.png)
 
 # [Project 3: Google Play Store Review Analysis](https://colab.research.google.com/drive/15ldWN4bBySpwhgqx8pj-G4rkaJZMQU6-?usp=sharing)
 * Created a project comparing the best streaming services out there.
@@ -34,7 +34,7 @@ Portfolio belongs to Kairav Thakkar demonstrating the recent projects accomplish
 
 * Dataset can be found here:[Kaggle: Review Analysis](https://www.kaggle.com/datasets/lava18/google-play-store-apps?select=googleplaystore_user_reviews.csv)
 
-* ![necessary image derived from the analysis]()
+* ![necessary image derived from the analysis](https://github.com/parzivalkairav/Data_Analyst_portfolio/blob/main/images/play_store_review/scatter_plot.png)
 
 # [Project 4: Stock Market Visualisation](https://colab.research.google.com/drive/1lLg1T0q2bnXx5xwoz74pzUtCQroDdJCl?usp=sharing)
 * Analysing Google play store review to create interactive visualisations.
@@ -45,7 +45,7 @@ Portfolio belongs to Kairav Thakkar demonstrating the recent projects accomplish
 
 * Data has been obtained through the Yahoo Finance APi.
 
-* ![necessary image derived from the analysis]()
+* ![necessary image derived from the analysis](https://github.com/parzivalkairav/Data_Analyst_portfolio/blob/main/images/stock_market_analysis/rangeslider_analyser.png)
 
 
 
