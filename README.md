@@ -20,7 +20,7 @@ Portfolio belongs to Kairav Thakkar demonstrating the recent projects accomplish
 * Analysing the countries with per capita GDP to give a broader outlook at global scale.
 * Utilising bar chart and scatter plot to better derive the insights behind the data and its distribution. 
 * Comprehending the growth of developing and developed countries.
-* View in [Colab](https://colab.research.google.com/drive/1lW4bAPA5Ow7E4hsL7up3ByAWDPyKHxq3?usp=sharing). View in [Github](https://www.kaggle.com/datasets/fernandol/countries-of-the-world)
+* View in [Colab](https://colab.research.google.com/drive/1lW4bAPA5Ow7E4hsL7up3ByAWDPyKHxq3?usp=sharing). View in [Github](https://github.com/parzivalkairav/GDP_analysis)
 
 *Dataset can be found here: [Kaggle: Countries and their GDP](https://www.kaggle.com/datasets/fernandol/countries-of-the-world)
 
@@ -34,12 +34,16 @@ Portfolio belongs to Kairav Thakkar demonstrating the recent projects accomplish
 
 * Dataset can be found here:[Kaggle: Review Analysis](https://www.kaggle.com/datasets/lava18/google-play-store-apps?select=googleplaystore_user_reviews.csv)
 
-# [Project 4: Google Play Store Review Analysis]() 
+# [Project 4: Stock Market Visualisation](https://colab.research.google.com/drive/1lLg1T0q2bnXx5xwoz74pzUtCQroDdJCl?usp=sharing)
 * Analysing Google play store review to create interactive visualisations.
 * Performing sentiment analysis to comprehend the feedback from the users.
 * Classifying user response into positive and negative reviews to gather insights from the user's perspective.
 * Using scatterplot to graph the data points onto the respective graph.
-* View in [Colab](https://colab.research.google.com/drive/1G9vIDd--ozCaRNCOADCh-_e594ZUCAHS?usp=sharing). View in [Github](https://github.com/parzivalkairav/streaming-service-analysis)
+* View in [Colab](https://colab.research.google.com/drive/1lLg1T0q2bnXx5xwoz74pzUtCQroDdJCl?usp=sharing). View in [Github](https://github.com/parzivalkairav/streaming-service-analysis)
 
-* Dataset can be found here:[Kaggle: Review Analysis](https://www.kaggle.com/datasets/lava18/google-play-store-apps?select=googleplaystore_user_reviews.csv)
+* Data has been obtained through the Yahoo Finance APi.
+
+
+
+
 
