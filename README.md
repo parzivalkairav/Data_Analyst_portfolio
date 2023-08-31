@@ -10,7 +10,7 @@ Portfolio belongs to Kairav Thakkar demonstrating the recent projects accomplish
 
 * Dataset can be found here: [Kaggle:Streaming Service and Analysis](https://www.kaggle.com/datasets/ruchi798/tv-shows-on-netflix-prime-video-hulu-and-disney) 
 
-![necessary image derived from the analysis]()
+![necessary image derived from the analysis](https://github.com/parzivalkairav/Data_Analyst_portfolio/blob/main/images/Streaming/violin_chart_image.png)
 
 # [Project 2: Growth of countries Analysis](https://colab.research.google.com/drive/1lW4bAPA5Ow7E4hsL7up3ByAWDPyKHxq3?usp=sharing)
 * Created a project comparing the GDP and the GDP per capital of various countries
