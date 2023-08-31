@@ -1,4 +1,4 @@
-Portfolio belongs to Kairav Thakkar demonstrating the recent projects accomplished in the field of data science and data analysis.
+Projects in the field of data science and data analysis with a brief explanation and colab notebook corresponding to the project.
 
 # [Project 1: OTT Comparison_and_Analysis](https://colab.research.google.com/drive/1G9vIDd--ozCaRNCOADCh-_e594ZUCAHS?usp=sharing) 
 * Created a project comparing the best streaming services out there.
